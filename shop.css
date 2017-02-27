@@ -1,0 +1,93 @@
+
+
+p.text {
+    text-align : justify;
+  }
+
+p.H1Blue {
+    font-size : x-large;
+    font-weight : bold;
+	text-align : center;
+	color : #0000CD;
+	
+  }
+  
+p.H1 {
+    font-size : x-large;
+    font-weight : bold;
+	text-align : center;
+	color : #8B2252;
+	
+  }
+
+p.H2 {
+    font-size : large;
+    font-weight : bold;
+	text-align : center;
+  }
+
+p.verse {
+    font-size : large;
+    font-weight : bold;
+	color : #000080;	
+  }
+  
+tr.H2 {
+    font-size : large;
+    font-weight : bold;
+  }
+
+
+tr.H3 {
+    font-weight : bold;
+  }
+
+
+td.Name {
+    font-size : large;
+    font-style : italic;
+    font-weight : bold;
+    text-align : center;
+  }
+
+
+td.Dol {
+    text-align : center;
+  }
+
+
+td.Other {
+    text-align : center;
+  }
+
+
+td.menu {
+    font-size : large;
+    font-weight : bold;
+  }
+
+
+td.Foto {
+    height : 200px;
+    text-align : center;
+  }
+
+
+table.Pers {
+    width : 320px;
+    height : 300px;
+  }
+
+
+.m {
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+li.conkurs
+	{  font-size : large;
+    	font-weight : bold;
+	}
+
+
